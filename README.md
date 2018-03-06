@@ -1,6 +1,6 @@
-## ChatBot Interface based on Pointwise Mutual Information
+# ChatBot Interface based on Pointwise Mutual Information
 
-# String preprocessing
+## String preprocessing
 
 1. Remove punctuation etc using regular expressions
 2. Convert to lowercase
