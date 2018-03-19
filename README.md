@@ -12,7 +12,7 @@ Pointwise Mutual Information is a concept in information theory and statistics w
 
 PMI(w,c) = log (p(w,c)/(p(w)p(c)))
 
-PMI measures the likeliness of w and c to occur together vs if they were to exit independently.
+PMI measures the likeliness of w and c to occur together vs if they were to exist independently.
 
 ## Compute word to context co-occurrence matrix
 
